@@ -1,0 +1,127 @@
+[{
+    "question": "Where does Happy Birthday song come from?",
+    "answer": ["good morning to you", "no where, it's original", "from ancient time"],
+    "correctAnswerIndex": 0,
+    "feedback": "it comes from good morning to you song!"
+    
+},
+{
+    "question": "why do we do Baptism?",
+    "answer": ["just following a traditional", "to purify and ward off evil", "for good luck"],
+    "correctAnswerIndex": 1,
+    "feedback": "Baptism is to purify and ward off evil"
+    
+},
+{
+    "question": "why do we pass out cigars?",
+    "answer": ["to celebrate the arrival of a baby", "to make friends", "to show off"],
+    "correctAnswerIndex": 0,
+    "feedback": "people pass out cigars to celebrate the arrival of a baby"
+    
+},
+{
+    "question": "why is blue for boys?",
+    "answer": ["blue has the power to ward off evil", "blue is a good color", "for good luck"],
+    "correctAnswerIndex": 0,
+    "feedback": "It is believed in ancient time that blue has the power to ward off evil "
+    
+},
+{
+    "question": "why is pink for girls?",
+    "answer": ["just following a traditional", "to purify and ward off evil", "girls were believed to be born inside a pink rose"],
+    "correctAnswerIndex": 2,
+    "feedback": "Girls were believed to be born inside a pink rose"
+    
+},
+{
+    "question": "why do we do Baptism?",
+    "answer": ["just following a traditional", "to purify and ward off evil", "for good luck"],
+    "correctAnswerIndex": 1,
+    "feedback": "Baptism is to purify and ward off evil"
+    
+},
+{
+    "question": "why do we give birthday spankings?",
+    "answer": ["for attention and good luck", "for teasing", "for teaching"],
+    "correctAnswerIndex": 0,
+    "feedback": "Baptism is to purify and ward off evil"
+    
+}, {
+    "question": "why do we give retirement watch?",
+    "answer": ["a reward for years of services", "to tell time", "a gift"],
+    "correctAnswerIndex": 0,
+    "feedback": "retirement watch is a reward for years of services"
+    
+}, {
+    "question": "where did sending greeting cards originated?",
+    "answer": ["U.S", "U.K", "Netherlands"],
+    "correctAnswerIndex": 1,
+    "feedback": "Sending greeting cards originated in U.K"
+}, {
+    "question": "what are birthday candles?",
+    "answer": ["decorations", "for light", "a symbol of life and death"],
+    "correctAnswerIndex": 2,
+    "feedback": "Birthday candles are a symbol of life and death"
+    
+}, {
+    "question": "what is sweet sixteen party?",
+    "answer": ["puberty initiation rite", "a birthday party", "family gathering"],
+    "correctAnswerIndex": 0,
+    "feedback": "Sweet sixteen party is puberty initiation rite"
+    
+}, {
+    "question": "what is hazing?",
+    "answer": ["a pledging rite", "play activity", "rejection"],
+    "correctAnswerIndex": 0,
+    "feedback": "hazing is a pledging rite"
+    
+}, {
+    "question": "what is Homecoming Parade?",
+    "answer": ["a weekend long celebration by high schools and colleges", "Coming home party", "Coming of age party"],
+    "correctAnswerIndex": 0,
+    "feedback": "Homecoming Parade is a weekend long celebratio by high schools and colleges"
+    
+}, {
+    "question": "why do we go to Prom with a date?",
+    "answer": ["dance party where girls and boys dressed in elegant attire", "to make more friends", "its a requirement"],
+    "correctAnswerIndex": 0,
+    "feedback": "Prom is a dance party where girls and boys dressed in elegant attire"
+    
+}, {
+    "question": "what is spin the bottle?",
+    "answer": ["a kissing game", "a drinking game", "cleaning the bottle"],
+    "correctAnswerIndex": 0,
+    "feedback": "sping the bottle is a kissing game"
+    
+}, {
+    "question": "what is going dutch?",
+    "answer": ["going to dutch restuarant", "saying no", "splitting the bill"],
+    "correctAnswerIndex": 2,
+    "feedback": "Going dutch is splitting the bill"
+    
+}, {
+    "question": "what is asking a woman's hand?",
+    "answer": ["a roman tradition", "asking for help", "to give a massage"],
+    "correctAnswerIndex": 0,
+    "feedback": "asking a woman's hand is a roman tradition where father let go of the daugther's hand"
+    
+}, {
+    "question": "what is Bridal Shower?",
+    "answer": ["party thrown by bride'close friends", "a pool party", "Bride getting ready"],
+    "correctAnswerIndex": 0,
+    "feedback": "Bridal Shower is a party thrown by bride's close friends to give bride gifts"
+    
+}, {
+    "question": "what is you may kiss the bride ?",
+    "answer": ["People ask for it", "It's part of wedding entertainment", "expression to affirm their devotion to one another"],
+    "correctAnswerIndex": 2,
+    "feedback": "kissing at the end of the wedding is an expression ot affirm their devotion to one another"
+    
+}, {
+    "question": "what is shaking hands?",
+    "answer": ["gesture indicating friendship and acceptance", "an act ", "to wish good luck"],
+    "correctAnswerIndex": 0,
+    "feedback": "shaking hands is a gesture indicates friendship and acceptance"
+    
+}
+]
